@@ -6,4 +6,5 @@ curl -o running.sh https://raw.githubusercontent.com/woofycloud/studious-potato/
 curl -o index.js https://raw.githubusercontent.com/woofycloud/studious-potato/main/index.js
 curl -o start.sh https://raw.githubusercontent.com/woofycloud/studious-potato/main/start.sh
 curl -o startz.sh https://raw.githubusercontent.com/woofycloud/studious-potato/main/startz.sh
+proot -S . apk add icu-libs
 clear
